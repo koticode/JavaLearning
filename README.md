@@ -1,7 +1,7 @@
 # JavaLearning
 Здесь представлены мои учебные программы на Java
 ### Содержание
-### JavaLearningBase:
+### JavaLearningBase - задачи на знание основ Java:
 1) Task1_PaymentPhone:<br>
    Задача по вычислению платы за услуги мобильной связи.
 
